@@ -73,13 +73,6 @@
   "portfolio": {
     "projects": [
       {
-        "title": "",
-        "technology": "MongoDB / Express / React / Node.js / CloudinaryDB / GraphQL / Websocket",
-        "image": "plutus.jpg",
-        "demo": "https://plutus-5566.herokuapp.com/#/",
-        "repo": "https://github.com/yuichiu416/Plutus"
-      },
-      {
         "title": "Fury Fighting Gear",
         "category": "(offline now) A fighting gear company I started",
         "image": "fury-fighting-gear.jpg",
