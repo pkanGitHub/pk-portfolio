@@ -73,12 +73,6 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
-      {
         "title": "Fury Fighting Gear",
         "category": "(offline now) A fighting gear company I started",
         "image": "fury-fighting-gear.jpg",
