@@ -73,10 +73,11 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "",
+        "technology": "MongoDB / Express / React / Node.js / CloudinaryDB / GraphQL / Websocket",
+        "image": "plutus.jpg",
+        "demo": "https://plutus-5566.herokuapp.com/#/",
+        "repo": "https://github.com/yuichiu416/Plutus"
       },
       {
         "title": "Fury Fighting Gear",
