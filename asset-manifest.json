@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pk-portfolio/static/css/main.d498bfb3.chunk.css",
-    "main.js": "/pk-portfolio/static/js/main.c0fead12.chunk.js",
-    "main.js.map": "/pk-portfolio/static/js/main.c0fead12.chunk.js.map",
+    "main.js": "/pk-portfolio/static/js/main.c50b616b.chunk.js",
+    "main.js.map": "/pk-portfolio/static/js/main.c50b616b.chunk.js.map",
     "runtime~main.js": "/pk-portfolio/static/js/runtime~main.bf22f664.js",
     "runtime~main.js.map": "/pk-portfolio/static/js/runtime~main.bf22f664.js.map",
     "static/js/2.386a4247.chunk.js": "/pk-portfolio/static/js/2.386a4247.chunk.js",
     "static/js/2.386a4247.chunk.js.map": "/pk-portfolio/static/js/2.386a4247.chunk.js.map",
     "index.html": "/pk-portfolio/index.html",
-    "precache-manifest.42c7536e0074f406e2a1860ff837d379.js": "/pk-portfolio/precache-manifest.42c7536e0074f406e2a1860ff837d379.js",
+    "precache-manifest.c1e473bae73e513c91b401e563eef241.js": "/pk-portfolio/precache-manifest.c1e473bae73e513c91b401e563eef241.js",
     "service-worker.js": "/pk-portfolio/service-worker.js",
     "static/css/main.d498bfb3.chunk.css.map": "/pk-portfolio/static/css/main.d498bfb3.chunk.css.map"
   }
